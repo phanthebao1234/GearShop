@@ -1,0 +1,10 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+<script src="Content/js/bootstrap.bundle.min.js"></script>
+<!-- <script src="Content/js/jquery.min.js"></script> -->
+<!-- <script src="Content/js/owl.carousel.min.js"></script> -->
+<!-- <script src="Content/js/jquery-1.9.1.min.js"></script> -->
+<!-- <script src="Content/js/owl.carousel.js"></script> -->
+<script src="Content/js/owl.carousel.min.js"></script>
+<script src="Content/js/home.js"></script>
+<script src="https://use.fontawesome.com/a20be5ab91.js"></script>
