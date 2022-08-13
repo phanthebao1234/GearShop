@@ -8,7 +8,7 @@ body {
 }
 
 .menu-info {
-    background-color: #ED1C24;
+    background-color: #ea1c00;
     color: #fff;
     font-size: 15px;
 }
@@ -127,7 +127,7 @@ content {
 }
 
 .content-main-image {
-    width: 730px;
+    width: 800px;
 }
 .content-main-image img{
     width: 100%;

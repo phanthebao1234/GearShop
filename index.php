@@ -22,8 +22,6 @@
     <link rel="stylesheet" href="Content/css/bootstrap.min.css" />
     <link rel="stylesheet" href="Content/css/owl.carousel.min.css" />
     <link rel="stylesheet" href="Content/css/owl.theme.default.min.css" />
-    <!-- <link rel="stylesheet" href="Content/css/owl.carousel.css">
-    <link rel="stylesheet" href="Content/css/owl.theme.css"> -->
     <link rel="stylesheet" href="Content/css/reset.css" />
     <link rel="stylesheet" href="Content/css/home.css" />
     
